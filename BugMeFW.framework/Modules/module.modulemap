@@ -1,0 +1,6 @@
+framework module BugMeFW {
+  umbrella header "BugMeFW.h"
+
+  export *
+  module * { export * }
+}
